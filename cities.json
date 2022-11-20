@@ -349,7 +349,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": "الوالدية",
+          "ar": "الوليدية",
           "en": "Oualidia",
           "fr": "Oualidia"
         }
@@ -381,7 +381,7 @@
       {
         "region_id": 7,
         "names": {
-          "ar": "أسفي",
+          "ar": "آسفي",
           "en": "Safi",
           "fr": "Safi"
         }
@@ -757,7 +757,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": "فم الحصن",
+          "ar": "فم لحصن",
           "en": "Fam El Hisn",
           "fr": "Fam El Hisn"
         }
@@ -925,7 +925,7 @@
       {
         "region_id": 7,
         "names": {
-          "ar": "القطارة",
+          "ar": "قطارة",
           "en": "Kattara",
           "fr": "Kattara"
         }
@@ -2301,8 +2301,8 @@
       {
         "region_id": 8,
         "names": {
-          "ar": "مسمرير",
-          "en": "M'semrir",
+          "ar": "أمسمرير",
+          "en": "Msemrir",
           "fr": "M'semrir"
         }
       },
@@ -2325,7 +2325,7 @@
       {
         "region_id": 8,
         "names": {
-          "ar": "وارزازات",
+          "ar": "ورزازات",
           "en": "Ouarzazate",
           "fr": "Ouarzazate"
         }
@@ -2357,7 +2357,7 @@
       {
         "region_id": 10,
         "names": {
-          "ar": "سيدي إيفني",
+          "ar": "سيدي إفني",
           "en": "Sidi Ifni",
           "fr": "Sidi Ifni"
         }
@@ -2413,7 +2413,7 @@
       {
         "region_id": 9,
         "names": {
-          "ar": "تاليوين",
+          "ar": "تالوين",
           "en": "Taliouine",
           "fr": "Taliouine"
         }
