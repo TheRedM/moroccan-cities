@@ -37,7 +37,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": "مديونة‬",
+          "ar": "مديونة",
           "en": "Mediouna",
           "fr": "Médiouna"
         }
@@ -190,7 +190,7 @@
         "region_id": 6,
         "names": {
           "ar": "الساحل أولاد أحريز",
-          "en": "Oulad H'Riz Sahel",
+          "en": "Oulad Hriz Sahel",
           "fr": "Oulad H'Riz Sahel"
         }
       },
@@ -198,7 +198,7 @@
         "region_id": 6,
         "names": {
           "ar": "أولاد امراح",
-          "en": "Oulad M'rah",
+          "en": "Oulad Mrah",
           "fr": "Oulad M'rah"
         }
       },
@@ -613,7 +613,7 @@
       {
         "region_id": 4,
         "names": {
-          "ar": "جرف الملحةa",
+          "ar": "جرف الملحة",
           "en": "Jorf El Melha",
           "fr": "Jorf El Melha"
         }
@@ -982,7 +982,7 @@
         "region_id": 7,
         "names": {
           "ar": "سيد المختار",
-          "en": "Sid L'Mokhtar",
+          "en": "Sid Lmokhtar",
           "fr": "Sid L'Mokhtar"
         }
       },
@@ -1262,8 +1262,8 @@
         "region_id": 5,
         "names": {
           "ar": "الريش",
-          "en": "Er-Rich",
-          "fr": "Er-Rich"
+          "en": "Errich",
+          "fr": "Errich"
         }
       },
       {
@@ -1358,7 +1358,7 @@
         "region_id": 3,
         "names": {
           "ar": "المهاية",
-          "en": "M'haya",
+          "en": "Mehaya",
           "fr": "M'haya"
         }
       },
@@ -1366,7 +1366,7 @@
         "region_id": 5,
         "names": {
           "ar": "مريرت",
-          "en": "M'rirt",
+          "en": "Mrirt",
           "fr": "M'rirt"
         }
       },
@@ -1414,7 +1414,7 @@
         "region_id": 3,
         "names": {
           "ar": "نزالة بني عمار",
-          "en": "N'Zalat Bni Amar",
+          "en": "Nzalat Bni Amar",
           "fr": "N'Zalat Bni Amar"
         }
       },
