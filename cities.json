@@ -1709,6 +1709,14 @@
       {
         "region_id": 2,
         "names": {
+          "ar": "عين الشعير",
+          "en": "Ain Chair",
+          "fr": "Aïn Chaïr"
+        }
+      },
+      {
+        "region_id": 2,
+        "names": {
           "ar": "احدادن",
           "en": "Ihddaden",
           "fr": "Ihddaden"
