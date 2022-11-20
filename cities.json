@@ -133,7 +133,7 @@
       {
         "region_id": 6,
         "names": {
-          "ar": "الݣارة",
+          "ar": "الكارة",
           "en": "El Gara",
           "fr": "El Gara"
         }
@@ -173,7 +173,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": "واد زم",
+          "ar": "وادي زم",
           "en": "Oued Zem",
           "fr": "Oued Zem"
         }
@@ -485,7 +485,7 @@
       {
         "region_id": 3,
         "names": {
-          "ar": "المنزل",
+          "ar": "المنزل بني يازغة",
           "en": "El Menzel",
           "fr": "El Menzel"
         }
@@ -501,7 +501,7 @@
       {
         "region_id": 3,
         "names": {
-          "ar": "إيموزار كندر",
+          "ar": "إموزار كندر",
           "en": "Imouzzer Kandar",
           "fr": "Imouzzer Kandar"
         }
@@ -2621,7 +2621,7 @@
       {
         "region_id": 5,
         "names": {
-          "ar": "الفقيه بن صالح",
+          "ar": "الفقيه بنصالح",
           "en": "Fquih Ben Salah",
           "fr": "Fquih Ben Salah"
         }
@@ -2688,6 +2688,14 @@
           "ar": "زاوية الشيخ",
           "en": "Zaouiat Cheikh",
           "fr": "Zaouïat Cheikh"
+        }
+      },
+      {
+        "region_id": 5,
+        "names": {
+          "ar": "زاوية أحنصال",
+          "en": "Zaouiat Ahansal",
+          "fr": "Zaouiat Ahansal"
         }
       },
       {
@@ -2989,9 +2997,9 @@
       {
         "region_id": 1,
         "names": {
-          "ar": "إساگن كتامة",
-          "en": "Issaguen (Ketama)",
-          "fr": "Issaguen (Ketama)"
+          "ar": "كتامة",
+          "en": "Ketama",
+          "fr": "Ketama"
         }
       },
       {
@@ -3029,7 +3037,7 @@
       {
         "region_id": 3,
         "names": {
-          "ar": "تاهلا",
+          "ar": "تاهلة",
           "en": "Tahla",
           "fr": "Tahla"
         }
@@ -3072,6 +3080,14 @@
           "ar": "تازة",
           "en": "Taza",
           "fr": "Taza"
+        }
+      },
+      {
+        "region_id": 3,
+        "names": {
+          "ar": "بورد",
+          "en": "Bourd",
+          "fr": "Bourd"
         }
       },
       {
