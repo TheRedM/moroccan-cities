@@ -2349,6 +2349,14 @@
       {
         "region_id": 8,
         "names": {
+          "ar": "بوسكور",
+          "en": "Bouskor",
+          "fr": "Bouskor"
+        }
+      },
+      {
+        "region_id": 8,
+        "names": {
           "ar": "تابونت",
           "en": "Tabounte",
           "fr": "Tabounte"
