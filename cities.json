@@ -1541,7 +1541,7 @@
       {
         "region_id": 2,
         "names": {
-          "ar": "احفير",
+          "ar": "أحفير",
           "en": "Ahfir",
           "fr": "Ahfir"
         }
@@ -1597,6 +1597,22 @@
       {
         "region_id": 2,
         "names": {
+          "ar": "تافوغالت",
+          "en": "Tafoughalt",
+          "fr": "Tafoughalt"
+        }
+      },
+      {
+        "region_id": 2,
+        "names": {
+          "ar": "تفزوان",
+          "en": "Fezwan",
+          "fr": "Fezouane"
+        }
+      },
+      {
+        "region_id": 2,
+        "names": {
           "ar": "بني أنصار",
           "en": "Bni Ansar",
           "fr": "Bni Ansar"
@@ -1613,7 +1629,7 @@
       {
         "region_id": 2,
         "names": {
-          "ar": "بني درار",
+          "ar": "بني ادرار",
           "en": "Bni Drar",
           "fr": "Bni Drar"
         }
@@ -1621,7 +1637,7 @@
       {
         "region_id": 2,
         "names": {
-          "ar": "بني تادجيت",
+          "ar": "بني تجيت",
           "en": "Bni Tadjite",
           "fr": "Bni Tadjite"
         }
@@ -1677,7 +1693,7 @@
       {
         "region_id": 2,
         "names": {
-          "ar": "الدريوش",
+          "ar": "دريوش",
           "en": "Driouch",
           "fr": "Driouch"
         }
@@ -1685,9 +1701,9 @@
       {
         "region_id": 2,
         "names": {
-          "ar": "العيون سيدي ملوك",
-          "en": "El Aioun Sidi Mellouk",
-          "fr": "El Aïoun Sidi Mellouk"
+          "ar": "العيون الشرقية",
+          "en": "El Aioun Charqia",
+          "fr": "El Aïoun Charqia"
         }
       },
       {
@@ -1821,7 +1837,7 @@
       {
         "region_id": 2,
         "names": {
-          "ar": "راس الما",
+          "ar": "رأس الماء",
           "en": "Ras El Ma",
           "fr": "Ras El Ma"
         }
@@ -1861,7 +1877,7 @@
       {
         "region_id": 2,
         "names": {
-          "ar": "نالسينت",
+          "ar": "تالسينت",
           "en": "Talsint",
           "fr": "Talsint"
         }
